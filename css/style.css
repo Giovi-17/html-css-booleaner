@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-weight: bold;
 }
 
 
@@ -34,11 +35,13 @@
 header{
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
-    height: 300px;
+    height: 180px;
 }
 
-div img{
-    width: 200px;
+#logo{
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 80px;
 }
 
 
@@ -79,7 +82,6 @@ table{
 
 thead{
     background-color: #20a9e5;
-    font-weight: bold;
 }
 
 th{
@@ -93,6 +95,7 @@ th{
 /* FOOTER */
 footer h4{
     color: #808080;
+    font-size: 20px;
 }
 
 
@@ -115,6 +118,6 @@ footer h4{
     color: white;
     margin-top: 15px;
     margin-left: 15px;
-    font-weight: bold;    
+    font-size: 20px;   
 }
 
