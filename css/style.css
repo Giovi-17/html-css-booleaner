@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-weight: bold;
+    font-size: 20px;
 }
 
 
@@ -17,7 +18,7 @@
 
 /*bordo principale*/
 #bordo-principale{
-    width: 98%;
+    width: 99%;
     margin: auto;
 }
 
@@ -48,6 +49,10 @@ h2 span{
     color: #32afe7;
 }
 
+h3{
+    font-size: 15px;
+}
+
 #img1{
     width: 47%;
 }
@@ -57,7 +62,7 @@ h2 span{
 }
 
 .descrizione{
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .evidenziato-giallo{
@@ -90,7 +95,7 @@ th{
     background-color: #b1e5f2;
 }
 
-#par2{
+.par{
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -106,6 +111,7 @@ footer h4{
     background-repeat: no-repeat;
     margin-top: 15px;
     margin-bottom: 15px;
+    padding: 15px;
 }
 
 #fimg1{
@@ -118,8 +124,7 @@ footer h4{
 
 .stile{
     color: white;
-    margin-top: 15px;
     margin-left: 15px;
-    font-size: 20px;   
+    font-size: 25px;   
 }
 
