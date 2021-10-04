@@ -15,16 +15,6 @@
 
 }
 
-.spazio2{
-    margin-right: 30px;
-}
-
-.spazio3{
-    border-collapse: separate;
-    border-spacing: 15px;
-    
-}
-
 /*bordo principale*/
 #bordo-principale{
     width: 98%;
@@ -80,6 +70,14 @@ table{
     border-spacing: 0;
 }
 
+.tspazio{
+    width: 300px;
+}
+
+.tspazio2{
+    height: 50px;
+}
+
 thead{
     background-color: #20a9e5;
 }
@@ -92,12 +90,16 @@ th{
     background-color: #b1e5f2;
 }
 
+#par2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 /* FOOTER */
 footer h4{
     color: #808080;
     font-size: 20px;
 }
-
 
 .fimg{
     height: 200px;
